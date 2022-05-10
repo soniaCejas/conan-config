@@ -1,0 +1,1 @@
+ultimaker https://peer23peer.jfrog.io/artifactory/api/conan/cura-conan True
